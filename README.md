@@ -105,15 +105,6 @@ const Alfaz = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Alfazweb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
