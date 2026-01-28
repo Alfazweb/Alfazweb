@@ -18,7 +18,7 @@
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Alfazweb&style=for-the-badge&color=58A6FF)
-[![GitHub Followers](https://img.shields.io/github/followers/yeshaswi3060?style=for-the-badge&color=58A6FF&logo=github)](https://github.com/yeshaswi3060)
+[![GitHub Followers](https://img.shields.io/github/followers/Alfazweb?style=for-the-badge&color=58A6FF&logo=github)](https://github.com/Alfazweb)
 
 </div>
 
@@ -78,15 +78,15 @@ const Alfaz = {
 
 <div align="center">
   
-<a href="https://github.com/yeshaswi3060">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeshaswi3060&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeshaswi3060&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Alfazweb">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alfazweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alfazweb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Alfazweb">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yeshaswi3060&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alfazweb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -97,9 +97,9 @@ const Alfaz = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeshaswi3060/yeshaswi3060/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeshaswi3060/yeshaswi3060/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yeshaswi3060/yeshaswi3060/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alfazweb/Alfazweb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alfazweb/Alfazweb/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Alfazweb/Alfazweb/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -109,7 +109,7 @@ const Alfaz = {
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=yeshaswi3060&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alfazweb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5)
 
 </div>
 
@@ -119,7 +119,7 @@ const Alfaz = {
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeshaswi3060&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/yeshaswi3060)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfazweb&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/Alfazweb)
 
 </div>
 
