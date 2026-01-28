@@ -110,7 +110,7 @@ const Alfaz = {
 ## 📈 Activity Graph
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfaz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/yeshaswi3060)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfazweb&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/yeshaswi3060)
 
 </div>
 
