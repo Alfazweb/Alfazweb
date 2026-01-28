@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const yeshaswi = {
+const Alfaz = {
     location: "Delhi, India 🇮🇳",
     education: "Computer Science",
     roles: ["Full Stack Developer", "Problem Solver", "Tech Enthusiast"],
