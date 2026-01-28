@@ -85,7 +85,7 @@ const Alfaz = {
 
 <br/><br/>
 
-<a href="https://github.com/yeshaswi3060">
+<a href="https://github.com/Alfazweb">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yeshaswi3060&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
